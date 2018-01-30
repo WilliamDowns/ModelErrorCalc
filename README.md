@@ -1,0 +1,1 @@
+ModelDataGrab.py is used to read data (MSLP data by default) from a GRIB file (tested with GFS data so far), read track data from a csv file (IrmaTrack.csv provided as an example of the format tested), and calculate error for a chosen time.
