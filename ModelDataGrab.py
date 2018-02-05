@@ -126,7 +126,6 @@ def read_time(time, csvfile):
     opened csvfile'''
     reader = csv.reader(csvfile, delimiter = ' ')
     csv_list = list(reader)
-
     lat = 0
     lon = 0
     time_index = -1
